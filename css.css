@@ -1,0 +1,11 @@
+ .placeicon {
+     font-family: fontawesome
+ }
+
+ .custom-control-label::before {
+     background-color: lightgreen;
+     border: #dee2e6
+ }
+ .bg-info{
+ 	background-image: 
+ }
